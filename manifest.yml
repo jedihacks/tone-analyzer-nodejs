@@ -6,7 +6,7 @@ declared-services:
 applications:
 - services:
   - my-tone-analyzer-service
-  name: tone-analyzer-demo
+  name: trump-tone-analyzer
   command: npm start
   path: .
   instances: 2
